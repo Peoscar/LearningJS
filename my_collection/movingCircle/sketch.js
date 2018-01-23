@@ -10,15 +10,6 @@ function setup() {
 }
 
 function draw() {
-	// background(255);
-
-	if (r > 255) {
-		r = 0;
-	} else if (b > 255) {
-		b = r;
-	} else if (g > 255) {
-		g = b;
-	}
 
 	fill(r, g, b);
 	ellipse(myX, myY, 50, 50);
