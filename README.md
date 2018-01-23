@@ -7,7 +7,7 @@ Setup server:
 * change directory to project directory and run http_server in cmd (npm)
 * change directory to my_collection and run 'p5 server' or 'p5 s' (p5-manager)
 
-Go to http://localhost:8080 in chrome and open console (Ctrl + Shift + I)
+Go to http://localhost:8080 or http://localhost:5555, depending on choice of server, in chrome and open console (Ctrl + Shift + I)
 
 Refresh (Make sure that in "Network" in the console that Caching disabled is checked)
 
