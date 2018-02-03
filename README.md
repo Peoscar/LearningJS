@@ -36,3 +36,11 @@ Program that moves around a circle on the screen with some basic inputs from the
 ## Introduction to Classes in Javascript
 
 * [Coding Train Video](https://www.youtube.com/watch?v=T-HGdc8L-7w&index=21&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
+### Bubbles
+
+Some bubbles moving from the bottom of the screen, try to pop them!
+
+### Diver
+
+A diver in his natural habitat, I wonder if he can breate?
