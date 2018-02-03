@@ -3,6 +3,7 @@
   "projects": [
     "paint",
     "movingCircle",
-    "Robot"
+    "Robot",
+    "classesJSIntro"
   ]
 }
