@@ -3,8 +3,9 @@
   "projects": [
     "paint",
     "movingCircle",
-    "Robot",
-    "classesJSIntro",
-    "diver"
+    "robot",
+    "bubbles",
+    "diver",
+    "bouncyBalls"
   ]
 }
