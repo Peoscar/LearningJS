@@ -5,7 +5,7 @@ into web development.
 ## Setup
 
 Setup server:
-* change directory to project directory and run http_server in cmd (npm)
+* change directory to project directory and run http-server in cmd (npm)
 * change directory to my_collection and run 'p5 server' or 'p5 s' (p5-manager)
 
 Go to *http://localhost:8080* or *http://localhost:5555*, depending on choice of server, in chrome and open console
